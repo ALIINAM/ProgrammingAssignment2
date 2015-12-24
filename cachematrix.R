@@ -1,6 +1,9 @@
 ## Put comments here that give an overall description of what your
 ## functions do
 
+#This function will computer the inverse of the matrix only when it has not been computed before i.e does not exist in 
+#the cache.
+
 ## Write a short comment describing this function
 
 #set the value of the matrix
